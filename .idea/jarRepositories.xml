@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="spring" />
+      <option name="name" value="spring" />
+      <option name="url" value="http://repo.spring.io/simple/libs-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="primefaces" />
+      <option name="name" value="primefaces" />
+      <option name="url" value="http://repository.primefaces.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alfresco" />
+      <option name="name" value="alfresco" />
+      <option name="url" value="https://maven.alfresco.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo1" />
+      <option name="name" value="repo1" />
+      <option name="url" value="http://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="silvermind" />
+      <option name="name" value="silvermind" />
+      <option name="url" value="http://m2.silvermindsoftware.com/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gephi" />
+      <option name="name" value="gephi" />
+      <option name="url" value="https://nexus.gephi.org/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="arisglobal" />
+      <option name="name" value="arisglobal" />
+      <option name="url" value="http://10.194.2.12:8081/repository/arisglobal/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss" />
+      <option name="name" value="jboss" />
+      <option name="url" value="http://repository.jboss.com/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eclipselink" />
+      <option name="name" value="eclipselink" />
+      <option name="url" value="http://mirrors.ibiblio.org/pub/mirrors/eclipse/rt/eclipselink/maven.repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="java.net.m2" />
+      <option name="name" value="java.net.m2" />
+      <option name="url" value="http://download.java.net/maven/2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="codehaus" />
+      <option name="name" value="codehaus" />
+      <option name="url" value="http://repository.codehaus.org" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eclipse.eceliplink" />
+      <option name="name" value="eclipse.eceliplink" />
+      <option name="url" value="http://download.eclipse.org/rt/eclipselink/maven.repo" />
+    </remote-repository>
+  </component>
+</project>
