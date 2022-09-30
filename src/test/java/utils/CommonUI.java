@@ -234,6 +234,14 @@ public class CommonUI extends Constants {
             e.printStackTrace();
         }
     }
+    public static void forward() {
+        try {
+            driver.navigate().forward();
+        } catch (Exception e) {
+            System.out.println("No next page to go forward to");
+            e.printStackTrace();
+        }
+    }
     public static void quitBrowser() {
         try {
             driver.quit();
